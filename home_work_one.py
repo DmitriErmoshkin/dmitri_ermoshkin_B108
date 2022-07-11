@@ -45,8 +45,3 @@ def task_three():
         x = (-b -D**0.5)/(2*a)
         x1 =(+b -D**0.5)/(2*a)
         print(f"{x=} {x1=}")
-
-
-task_one()
-task_two()
-task_three()
